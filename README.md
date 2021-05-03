@@ -1,34 +1,8 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Kevin
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm GusDin
 <p align="center">
-<img src="https://github.com/kevzka/Kevzka/blob/main/halo.jpg" width="230" height="230"/>
 </p>
 <br>
 
-
-
-<p align="center">
-<a href="#"><img title="KEVIN APT" src="https://img.shields.io/badge/Kevin-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/Ramlan666"><img title="Author" src="https://img.shields.io/badge/AUTHOR-KEVIN-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/kevzka/kevbot/followers"><img title="Followers" src="https://img.shields.io/github/followers/kevzka?color=blue&style=flat-square"></a>
-<a href="https://github.com/kevzka/kevbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kevzka/kevbotcolor=red&style=flat-square"></a>
-<a href="https://github.com/kevzka/kevbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kevzka/kevbot?color=red&style=flat-square"></a>
-<a href="https://github.com/kevzka/kevbot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kevzka/kevbot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkevzka%2Fkevbot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-</p>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
-<div align="center">
-<details>
- 
-</details>
-
-### 𝗧𝗛𝗔𝗡𝗞𝗦 𝗙𝗢𝗥 𝗞𝗘𝗩𝗜𝗡
-
-### WARNING <img src="https://github.com/kevzka/kevbotwhatsapp/blob/main/assets/tenor.gif" width="29px">
-MAU RE-UPLOAD SCRIPT? Jangan lupa cantumkan github gw
 
 ## NOTE:> 
 SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
@@ -71,7 +45,7 @@ https://youtu.be/hhvQwPG2EF4
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > pkg install git
-> git clone https://github.com/kevzka/kevbot
+> git clone https://github.com/gusdin25/kazukibot
 > cd kevbot
 > npm i @adiwajshing/baileys@^3.3.0
 > bash install.sh
@@ -125,17 +99,6 @@ const vcard = 'BEGIN:VCARD\n'
 ```
 
 
-Ket: Aktiv sesuai termux dan owner nya online
-
-## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* <a href="https://saweria.co/Kevinapta"><img src="https://github.com/kevzka/Kevzka/blob/main/Logo-Saweria-Donasi.png" width="30" height="30"><img src="https://img.shields.io/badge/saweria-FEAA2D?style=for-the-badge&logo=saweria&logoColor=white">
-
-
-## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
-
-* <a href="https://instagram.com/kevin_apta_kun"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-* <a href="https://wa.me/+6283141621181"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-* <a href="https://chat.whatsapp.com/H7puFYYnKkUCNHjlveRTAh"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`ALLAH SWT`]
